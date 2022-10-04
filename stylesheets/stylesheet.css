@@ -1,8 +1,17 @@
 .heading{
+
     color: red;
 }
 
 .capitalPara{
 
     background-color: beige;
+}
+
+#firsth2{
+
+    background-color: pink;
+}
+.heading.london{
+    background-color: pink;
 }
